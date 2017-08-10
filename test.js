@@ -4,7 +4,9 @@
 
 
 var t='IMG haha';
+
 var r = t.replace('IMG', 'iimg');
 
+console.log('test');
 
 console.log(r);
